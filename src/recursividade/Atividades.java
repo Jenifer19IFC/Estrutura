@@ -1,4 +1,4 @@
-package Recursividade;
+package recursividade;
 
 public class Atividades {
 
