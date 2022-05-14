@@ -10,9 +10,9 @@ public class Main {
 
 		System.out.println(atividades.fatorialIterativa(4));
 		
-		System.out.println(atividades.recorrencia(5));
+		System.out.println(atividades.recorrencia(4));
 		
-		System.out.println(atividades.fib(2));
+		System.out.println(atividades.fib(4));
 		
 		System.out.println(atividades.somatorio(2));
 	}
