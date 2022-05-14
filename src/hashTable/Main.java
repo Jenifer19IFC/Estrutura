@@ -23,7 +23,7 @@ public class Main {
 		tabelaHash3.inserir("999.999.999-99", "Maria");
 		tabelaHash3.inserir("123.435.655-00", "Pedro");
 		System.out.println();
-		
+		  
 		tabelaHash3.deletarChave("999.999.999-99");
 		System.out.println(tabelaHash3.recuperar("542.443.545-00"));
 		System.out.println(tabelaHash3.recuperar("999.999.999-99"));
