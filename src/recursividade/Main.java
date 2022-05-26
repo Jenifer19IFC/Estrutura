@@ -12,9 +12,9 @@ public class Main {
 		
 		System.out.println(atividades.recorrencia(4));
 		
-		System.out.println(atividades.fib(4));
+		System.out.println(atividades.fib(10));
 		
-		System.out.println(atividades.somatorio(2));
+		System.out.println(atividades.somatorio(5));
 	}
 
 }
