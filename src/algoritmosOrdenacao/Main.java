@@ -21,6 +21,21 @@ public class Main {
 			System.out.println(array[i]);
 		}
 		
+		System.out.println("QUICK\n");
+		
+		ordenar.quickSort(array, 0, array.length-1);
+		
+		for (int i = 0; i < array.length; i++) {
+			System.out.println(array[i]);
+		}
+		
+		System.out.println("MERGE\n");
+		
+		ordenar.mergeSort(array, 0, array.length-1);
+		
+		for (int i = 0; i < array.length; i++) {
+			System.out.println(array[i]);
+		}
 		
 	}
 }
